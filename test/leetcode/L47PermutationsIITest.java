@@ -11,12 +11,6 @@ public class L47PermutationsIITest {
         final L47PermutationsII solution = new L47PermutationsII();
         final int[] input = {1, 1, 3};
         final List<List<Integer>> output = solution.permuteUnique(input);
-        output.forEach(
-                m -> {
-                    m.forEach(
-                            n -> System.out.print(n));
-                    System.out.println("");
-                }
-        );
+        Printer.print(output);
     }
 }
