@@ -4,3 +4,4 @@ L4MedianofTwoSortedArrays
 L28ImplementstrStr  improve it by using kmp, after finish first round of leetcode
 https://www.geeksforgeeks.org/searching-for-patterns-set-2-kmp-algorithm/
 http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/
+53. Maximum Subarray: divide and conquer
