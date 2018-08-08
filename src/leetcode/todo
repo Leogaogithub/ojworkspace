@@ -1,7 +1,7 @@
 L4MedianofTwoSortedArrays
 407. Trapping Rain Water II
 
-L28ImplementstrStr  improve it by using kmp, after finish first round of leetcode
+L28. ImplementstrStr  improve it by using kmp, after finish first round of leetcode
 https://www.geeksforgeeks.org/searching-for-patterns-set-2-kmp-algorithm/
 http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/
-53. Maximum Subarray: divide and conquer
+L53. Maximum Subarray: divide and conquer
